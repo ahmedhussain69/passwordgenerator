@@ -1,6 +1,7 @@
 # Password-Generator
 
-![image]
+![image]![image](https://user-images.githubusercontent.com/83966515/205367072-c5a6bf13-ae2f-4b68-b550-5655fa488d33.png)
+
 
 
 
